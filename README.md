@@ -3,6 +3,7 @@
 - 👀 I’m interested in Cybersecurity, Automation, Basic Malware Analysis
 - 💞️ I’m looking at developing my abilities working through the SEED Labs as well as trying to catch a Black Hills Session whenever I can!
 - 😄 Pronouns: (he/him)
+- Please feel free to have a look around!
 
 <!---
 aidanlio/aidanlio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
